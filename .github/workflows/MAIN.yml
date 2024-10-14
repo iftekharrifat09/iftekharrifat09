@@ -5,16 +5,16 @@ permissions:
 
 on:
   schedule:
-    # every 12 hours
+    # Every 12 hours
     - cron: "0 */12 * * *"
 
   # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
-  
+
   # Also run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
@@ -28,11 +28,11 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: iftekharrifat09  # Updated with your username
+          github_user_name: iftekharrifat09  # Your GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=#fc0058&color_dots=#161B22,#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=#fc0058&color_dots=#161B22,#161B22,#161B22,#161B22,#161B22,#161B22
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
