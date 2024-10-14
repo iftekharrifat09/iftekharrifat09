@@ -15,7 +15,9 @@
 - 💬 Ask me about **C,C++,Java**
 
 - 📫 How to reach me **iftekharrifat09@gmail.com**
+<br/>
 <hr/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdrifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrifathossain09" height="30" width="40" /></a>
@@ -25,7 +27,10 @@
 <a href="https://www.leetcode.com/rifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rifathossain09" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rifathossain09" height="30" width="40" /></a>
 </p>
+<br/>
 <hr/>
+<br/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,cpp" />
