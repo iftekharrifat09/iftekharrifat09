@@ -15,11 +15,9 @@
 - 💬 Ask me about **C,C++,Java**
 
 - 📫 How to reach me **iftekharrifat09@gmail.com**
-<br/><br/>
-
+<br/>
 <hr/>
-
-<br/><br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdrifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrifathossain09" height="30" width="40" /></a>
@@ -32,9 +30,7 @@
 <br/>
 <hr/>
 <br/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,cpp" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
