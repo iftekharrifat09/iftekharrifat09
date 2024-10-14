@@ -18,17 +18,18 @@ jobs:
       - name: Generate the snake files
         uses: Platane/snk@v3
         with:
-          github_user_name: iftekharrifat09  # Updated username
+          github_user_name: iftekharrifat09  # Your GitHub username
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Check if 'dist' directory exists
+      - name: Check if 'dist' directory exists and list contents
         run: |
           if [ -d dist ]; then
-            echo "'dist' directory exists"
-            ls dist
+            echo "'dist' directory exists:"
+            ls -al dist
           else
             echo "'dist' directory does not exist!"
+            exit 1
           fi
 
       - name: Push snake files to the output branch
