@@ -1,10 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div align="center">
   <h1 style="margin: 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=11ff00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifat+Hossain!;" />
   </h1>
   <img height="200" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 </div>
-
 
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
