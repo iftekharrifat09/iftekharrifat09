@@ -33,11 +33,10 @@
 <a href="https://www.leetcode.com/rifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rifathossain09" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rifathossain09" height="30" width="40" /></a>
 </p>
-<br/><br/>
-
+<br/>
 <hr/>
+<br/>
 
-<br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/><br/>
 <div align="center">
