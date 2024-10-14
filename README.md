@@ -1,16 +1,17 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left (Typing Animation) -->
-  <div>
-    <h1 align="left">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=11ff00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifat+Hossain!" />
+  <!-- Left Side - Typing SVG -->
+  <div style="flex-grow: 1;">
+    <h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=11ff00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifat+Hossain!;" />
     </h1>
   </div>
 
-  <!-- Right (Image) -->
-  <div align="right">
+  <!-- Right Side - LinkedIn Cover Image -->
+  <div>
     <img height="200" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
   </div>
 </div>
+
 
 
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
