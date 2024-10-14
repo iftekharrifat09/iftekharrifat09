@@ -1,22 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iftekharrifat09.iftekharrifat09" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1ABC9C&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifat+Hossain!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifat+Hossain!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Bangladesh bd</h3>
 
 <br/>
 
-<div align="center">
+<div align="Left">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Python Automation**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 I’m currently learning **JS, API, Django**
 
  </div>
  
