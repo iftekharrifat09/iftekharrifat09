@@ -28,8 +28,18 @@
 <a href="https://auth.geeksforgeeks.org/user/rifathossain09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rifathossain09" height="30" width="40" /></a>
 </p>
 <br/>
+<br/>
 <hr/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iftekharrifat09/iftekharrifat09/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
+<br/>
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
