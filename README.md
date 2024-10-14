@@ -35,9 +35,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iftekharrifat09/iftekharrifat09/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
-<hr/>
 <br/>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
